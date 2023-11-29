@@ -1,0 +1,18 @@
+.popup {
+  overflow: hidden;
+}
+
+.hero-padding-top {
+  padding: 80px;
+}
+@media (max-width: 992px) {
+  .hero-padding-top {
+    padding: 25px 0;
+  }
+}
+.hero-padding-hero-top {
+  padding: 80px;
+}
+.pb-50 {
+  padding-bottom: 50px !important;
+}
